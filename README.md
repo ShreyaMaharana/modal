@@ -1,2 +1,2 @@
-# model
+# modal
 Created with CodeSandbox
